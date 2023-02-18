@@ -1,0 +1,26 @@
+{
+  "name": "ndse-homeworks-005-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryhardy/ndse-homeworks-005-http.git%02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tryhardy/ndse-homeworks-005-http.git%02/issues"
+  },
+  "homepage": "https://github.com/tryhardy/ndse-homeworks-005-http.git%02#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
